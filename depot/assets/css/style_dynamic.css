@@ -1,0 +1,63 @@
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/assets/custom-styles/general-custom-styles.php depot_mikado_design_styles function */
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/assets/custom-styles/general-custom-styles.php depot_mikado_content_styles function */
+.mkd-content .mkd-content-inner > .mkd-full-width > .mkd-full-width-inner { padding-top: 40px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/assets/custom-styles/general-custom-styles.php depot_mikado_content_styles function */
+.mkd-content .mkd-content-inner > .mkd-container > .mkd-container-inner { padding-top: 40px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/assets/custom-styles/general-custom-styles.php depot_mikado_h1_styles function */
+h1 { color: #ffffff;font-size: 21px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_label_styles_1 function */
+.cf7_custom_style_1 p { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_label_styles_2 function */
+.cf7_custom_style_2 p { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_label_styles_3 function */
+.cf7_custom_style_3 p { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/contactform7/custom-styles/contact-form.php depot_mikado_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-family: ;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/footer/custom-styles/custom-styles.php depot_mikado_footer_top_general_styles function */
+footer.mkd-page-footer .mkd-footer-top-holder { background-color: #7f8715;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/footer/custom-styles/custom-styles.php depot_mikado_footer_bottom_general_styles function */
+footer.mkd-page-footer .mkd-footer-bottom-holder { background-color: #dd3333;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/types/header-top-menu.php depot_mikado_header_top_menu_logo_area_styles function */
+.mkd-header-top-menu .mkd-page-header .mkd-logo-area { margin-top: 150px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/header.php depot_mikado_header_top_bar_styles function */
+.mkd-top-bar-background { height: 130px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/header.php depot_mikado_header_menu_area_styles function */
+.mkd-page-header .mkd-menu-area .mkd-logo-wrapper a { max-height: 135px;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/header.php depot_mikado_header_menu_area_styles function */
+.mkd-page-header .mkd-menu-area { background-color: rgba(238, 238, 34, 1);height: 150px !important;box-shadow: 0px 1px 3px rgba(0,0,0,0.15);border-bottom: 1px solid #ffffff;}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/header.php depot_mikado_header_menu_area_styles function */
+.mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { background-color: rgba(0, 0, 0, 1);}
+
+/* generated in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/custom-styles/header.php depot_mikado_fixed_header_styles function */
+.mkd-page-header .mkd-fixed-wrapper.fixed .mkd-menu-area { background-color: rgba(221, 51, 51, 1)!important;}
+
